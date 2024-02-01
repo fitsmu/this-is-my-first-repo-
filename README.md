@@ -1,2 +1,2 @@
 # this-is-my-first-repo-
-this is my first repo i am so happey for this 
+this is my first repo i am so happy for this 
